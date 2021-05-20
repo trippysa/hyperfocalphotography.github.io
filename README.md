@@ -1,2 +1,2 @@
 # Hyperfocal Photo
-New website guys!!
+Time to deliver a pizza ball!
