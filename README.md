@@ -1,2 +1,2 @@
-# hyperfocalphotography.github.io
-hyperfocalphotography website
+# Hyperfocal Photo
+New website guys!!
