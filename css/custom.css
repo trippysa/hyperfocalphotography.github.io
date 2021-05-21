@@ -1,3 +1,7 @@
 body{
     background: black;
 }
+/*This is a custom overrride for h2 that would allow us to set a certain font */
+#bootstrap-overrides{
+    color: white;
+} 
