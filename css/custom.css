@@ -30,6 +30,11 @@ hr{
     background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, black));
 }
 
+@font-face {
+    font-family: Pandora Typeface;
+    src: url("../Pandora\ Ep1.otf") format("opentype");
+}
+
 /*pricing section css */
 section.pricing {
   }
