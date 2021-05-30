@@ -1,6 +1,7 @@
 body{
     background: black;
 }
+
 /*Trying to fix the mobile bug where inline images are being stretched out*/
 /*.container{
     display: flex;
