@@ -1,8 +1,8 @@
 body{
     background: black;
 }
-
-.container{
+/*Trying to fix the mobile bug where inline images are being stretched out*/
+/*.container{
     display: flex;
     flex-direction: column;
 }
@@ -14,7 +14,8 @@ body{
 .container img {
     width: 125px;
     height: auto;
-}
+} */
+
 /*This is a custom overrride for h2 that would allow us to set a certain font */
 #bootstrap-overrides{
     color: white;
